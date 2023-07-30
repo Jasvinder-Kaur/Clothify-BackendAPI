@@ -1,2 +1,2 @@
-E-Commerce Backend API
+Clothify Backend API
 
